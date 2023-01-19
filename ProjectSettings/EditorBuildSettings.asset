@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/start.unity
+    guid: f47ffe84cdeeb3f4382ba0b9d0cf4b31
+  - enabled: 1
+    path: Assets/Scenes/opening_01.unity
+    guid: 0b35ca2018ecc644e92d9789c11af9d8
+  - enabled: 1
+    path: Assets/Scenes/opening_02.unity
+    guid: bb4769b719c0b22489f5de4aff9d6d6c
+  - enabled: 1
+    path: Assets/Scenes/opening_03.unity
+    guid: 50400e850b86954449d8bb1cb787bfab
+  - enabled: 1
+    path: Assets/Scenes/opening_04.unity
+    guid: 275f11be68798a142a114f5f9d24c82b
+  - enabled: 1
+    path: Assets/Scenes/stage Select.unity
+    guid: a0ea9940534bf3d459cb5fd0bba1f5b3
+  - enabled: 1
+    path: Assets/Scenes/Five_01.unity
+    guid: dd5fd939ca8c45242a98631b6081aaa3
+  - enabled: 1
+    path: Assets/Scenes/Five_02.unity
+    guid: 430985bcacbfd0b43867743a6329ec4c
+  - enabled: 1
+    path: Assets/Scenes/Five_03.unity
+    guid: e952d09c566adcb4a893ec26e7a3531b
+  - enabled: 1
+    path: Assets/Scenes/Five_04.unity
+    guid: bac1574949b522b49a73197c5d3fd71a
+  - enabled: 1
+    path: Assets/Scenes/Five_05.unity
+    guid: c871c75b1262d7146bb9fbd626725fb3
+  - enabled: 1
+    path: Assets/Scenes/Five_06.unity
+    guid: 372c1de8913b9e043abdf1daa8d720e8
+  - enabled: 1
+    path: Assets/Scenes/Five_07.unity
+    guid: b0ae3eb666721b047987ede2170928ef
+  - enabled: 1
+    path: Assets/Scenes/Five_08.unity
+    guid: a9a31a7d165578a4c8f17c2cf149f565
+  m_configObjects: {}

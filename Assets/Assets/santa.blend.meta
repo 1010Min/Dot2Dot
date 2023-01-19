@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: f8c2fac41efa9884ca4cf30cb1a0055a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Light
+    100004: //RootNode
+    100006: Torus.001
+    100008: Torus.003
+    100010: "\uAD6C\uCCB4"
+    100012: "\uAD6C\uCCB4.001"
+    100014: "\uAD6C\uCCB4.002"
+    100016: "\uAD6C\uCCB4.003"
+    100018: "\uAD6C\uCCB4.004"
+    100020: "\uAD6C\uCCB4.005"
+    100022: "\uAD6C\uCCB4.006"
+    100024: "\uAD6C\uCCB4.007"
+    100026: "\uAD6C\uCCB4.008"
+    100028: "\uAD6C\uCCB4.009"
+    100030: "\uC2E4\uB9B0\uB354"
+    100032: "\uC2E4\uB9B0\uB354.001"
+    100034: "\uC2E4\uB9B0\uB354.002"
+    100036: "\uC2E4\uB9B0\uB354.003"
+    100038: "\uC544\uC774\uCF54\uC2A4\uD53C\uC5B4"
+    100040: "\uC544\uC774\uCF54\uC2A4\uD53C\uC5B4.001"
+    100042: "\uC6D0\uBFD4"
+    100044: Torus
+    100046: Torus.002
+    400000: Camera
+    400002: Light
+    400004: //RootNode
+    400006: Torus.001
+    400008: Torus.003
+    400010: "\uAD6C\uCCB4"
+    400012: "\uAD6C\uCCB4.001"
+    400014: "\uAD6C\uCCB4.002"
+    400016: "\uAD6C\uCCB4.003"
+    400018: "\uAD6C\uCCB4.004"
+    400020: "\uAD6C\uCCB4.005"
+    400022: "\uAD6C\uCCB4.006"
+    400024: "\uAD6C\uCCB4.007"
+    400026: "\uAD6C\uCCB4.008"
+    400028: "\uAD6C\uCCB4.009"
+    400030: "\uC2E4\uB9B0\uB354"
+    400032: "\uC2E4\uB9B0\uB354.001"
+    400034: "\uC2E4\uB9B0\uB354.002"
+    400036: "\uC2E4\uB9B0\uB354.003"
+    400038: "\uC544\uC774\uCF54\uC2A4\uD53C\uC5B4"
+    400040: "\uC544\uC774\uCF54\uC2A4\uD53C\uC5B4.001"
+    400042: "\uC6D0\uBFD4"
+    400044: Torus
+    400046: Torus.002
+    2000000: Camera
+    2100000: skin
+    2100002: red
+    2100004: black
+    2100006: brown
+    2100008: orange
+    2100010: white
+    2100012: black.001
+    2100014: black.002
+    2100016: brown.001
+    2100018: orange.001
+    2100020: No Name
+    2100022: black.005
+    2100024: white.001
+    2100026: red.001
+    2100028: orange.002
+    2300000: Torus.001
+    2300002: Torus.003
+    2300004: "\uAD6C\uCCB4"
+    2300006: "\uAD6C\uCCB4.001"
+    2300008: "\uAD6C\uCCB4.002"
+    2300010: "\uAD6C\uCCB4.003"
+    2300012: "\uAD6C\uCCB4.004"
+    2300014: "\uAD6C\uCCB4.005"
+    2300016: "\uAD6C\uCCB4.006"
+    2300018: "\uAD6C\uCCB4.007"
+    2300020: "\uAD6C\uCCB4.008"
+    2300022: "\uAD6C\uCCB4.009"
+    2300024: "\uC2E4\uB9B0\uB354"
+    2300026: "\uC2E4\uB9B0\uB354.001"
+    2300028: "\uC2E4\uB9B0\uB354.002"
+    2300030: "\uC2E4\uB9B0\uB354.003"
+    2300032: "\uC544\uC774\uCF54\uC2A4\uD53C\uC5B4"
+    2300034: "\uC544\uC774\uCF54\uC2A4\uD53C\uC5B4.001"
+    2300036: "\uC6D0\uBFD4"
+    2300038: Torus
+    2300040: Torus.002
+    3300000: Torus.001
+    3300002: Torus.003
+    3300004: "\uAD6C\uCCB4"
+    3300006: "\uAD6C\uCCB4.001"
+    3300008: "\uAD6C\uCCB4.002"
+    3300010: "\uAD6C\uCCB4.003"
+    3300012: "\uAD6C\uCCB4.004"
+    3300014: "\uAD6C\uCCB4.005"
+    3300016: "\uAD6C\uCCB4.006"
+    3300018: "\uAD6C\uCCB4.007"
+    3300020: "\uAD6C\uCCB4.008"
+    3300022: "\uAD6C\uCCB4.009"
+    3300024: "\uC2E4\uB9B0\uB354"
+    3300026: "\uC2E4\uB9B0\uB354.001"
+    3300028: "\uC2E4\uB9B0\uB354.002"
+    3300030: "\uC2E4\uB9B0\uB354.003"
+    3300032: "\uC544\uC774\uCF54\uC2A4\uD53C\uC5B4"
+    3300034: "\uC544\uC774\uCF54\uC2A4\uD53C\uC5B4.001"
+    3300036: "\uC6D0\uBFD4"
+    3300038: Torus
+    3300040: Torus.002
+    4300000: "\uAD6C\uCCB4"
+    4300002: "\uAD6C\uCCB4.001"
+    4300004: "\uC2E4\uB9B0\uB354"
+    4300006: "\uC2E4\uB9B0\uB354.001"
+    4300008: "\uAD6C\uCCB4.003"
+    4300010: "\uC2E4\uB9B0\uB354.002"
+    4300012: "\uC2E4\uB9B0\uB354.003"
+    4300014: "\uAD6C\uCCB4.005"
+    4300016: "\uC6D0\uBFD4"
+    4300018: Torus.001
+    4300020: "\uAD6C\uCCB4.006"
+    4300022: "\uAD6C\uCCB4.007"
+    4300024: "\uAD6C\uCCB4.008"
+    4300026: "\uAD6C\uCCB4.009"
+    4300028: "\uAD6C\uCCB4.002"
+    4300030: "\uAD6C\uCCB4.004"
+    4300032: Torus.003
+    4300034: "\uC544\uC774\uCF54\uC2A4\uD53C\uC5B4"
+    4300036: "\uC544\uC774\uCF54\uC2A4\uD53C\uC5B4.001"
+    4300038: Torus
+    4300040: Torus.002
+    10800000: Light
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

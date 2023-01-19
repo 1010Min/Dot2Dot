@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: a535bb7b198cdda43adc6f954d2589c1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Camera
+    100004: Light
+    100006: Torus.001
+    100008: "\uAD6C\uCCB4"
+    100010: "\uAD6C\uCCB4.001"
+    100012: "\uAD6C\uCCB4.004"
+    100014: "\uC2E4\uB9B0\uB354"
+    100016: "\uC2E4\uB9B0\uB354.001"
+    100018: "\uC6D0\uBFD4"
+    100020: "\uC6D0\uBFD4.001"
+    100022: "\uD050\uBE0C"
+    100024: "\uD050\uBE0C.001"
+    400000: //RootNode
+    400002: Camera
+    400004: Light
+    400006: Torus.001
+    400008: "\uAD6C\uCCB4"
+    400010: "\uAD6C\uCCB4.001"
+    400012: "\uAD6C\uCCB4.004"
+    400014: "\uC2E4\uB9B0\uB354"
+    400016: "\uC2E4\uB9B0\uB354.001"
+    400018: "\uC6D0\uBFD4"
+    400020: "\uC6D0\uBFD4.001"
+    400022: "\uD050\uBE0C"
+    400024: "\uD050\uBE0C.001"
+    2000000: Camera
+    2100000: "\uB9E4\uD14C\uB9AC\uC5BC"
+    2100002: No Name
+    2100004: "\uB9E4\uD14C\uB9AC\uC5BC.006"
+    2100006: "\uB9E4\uD14C\uB9AC\uC5BC.004"
+    2100008: "\uB9E4\uD14C\uB9AC\uC5BC.011"
+    2100010: "\uB9E4\uD14C\uB9AC\uC5BC.007"
+    2100012: "\uB9E4\uD14C\uB9AC\uC5BC.012"
+    2100014: "\uB9E4\uD14C\uB9AC\uC5BC.001"
+    2100016: "\uB9E4\uD14C\uB9AC\uC5BC.010"
+    2100018: "\uB9E4\uD14C\uB9AC\uC5BC.002"
+    2300000: Torus.001
+    2300002: "\uAD6C\uCCB4"
+    2300004: "\uAD6C\uCCB4.001"
+    2300006: "\uAD6C\uCCB4.004"
+    2300008: "\uC2E4\uB9B0\uB354"
+    2300010: "\uC2E4\uB9B0\uB354.001"
+    2300012: "\uC6D0\uBFD4"
+    2300014: "\uC6D0\uBFD4.001"
+    2300016: "\uD050\uBE0C"
+    2300018: "\uD050\uBE0C.001"
+    3300000: Torus.001
+    3300002: "\uAD6C\uCCB4"
+    3300004: "\uAD6C\uCCB4.001"
+    3300006: "\uAD6C\uCCB4.004"
+    3300008: "\uC2E4\uB9B0\uB354"
+    3300010: "\uC2E4\uB9B0\uB354.001"
+    3300012: "\uC6D0\uBFD4"
+    3300014: "\uC6D0\uBFD4.001"
+    3300016: "\uD050\uBE0C"
+    3300018: "\uD050\uBE0C.001"
+    4300000: "\uAD6C\uCCB4"
+    4300002: "\uAD6C\uCCB4.001"
+    4300004: "\uC2E4\uB9B0\uB354"
+    4300006: "\uC2E4\uB9B0\uB354.001"
+    4300008: "\uC6D0\uBFD4"
+    4300010: "\uAD6C\uCCB4.004"
+    4300012: Torus.001
+    4300014: "\uC6D0\uBFD4.001"
+    4300016: "\uD050\uBE0C"
+    4300018: "\uD050\uBE0C.001"
+    10800000: Light
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
